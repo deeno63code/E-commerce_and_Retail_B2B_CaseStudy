@@ -11,4 +11,4 @@ Schuster would thus try to understand its customers’ payment behaviour and pre
 
 customer segmentation
 
-Prediction of delayed payment against an unforeseen dataset of transactions with due date yet
+Prediction of delayed payment against an unforeseen dataset of transactions with due date.
